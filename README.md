@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I am a student from Dalian University of Science and Technology.
-
+### I’m a student from Dalian University of Science and Technology.
+- 🌱 I’m currently studying computer science and technology courses.
 <!--
 **popeo666/popeo666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
