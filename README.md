@@ -1,5 +1,5 @@
 ### Hi there 👋
-### student of Dalian Institute of Technology.
+### I am a student from Dalian University of Science and Technology.
 
 <!--
 **popeo666/popeo666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
